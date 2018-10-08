@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Class-Path: jopt-simple-4.6.jar twitch-platform-6.5-natives-osx.jar tw
+ itch-platform-6.5-natives-windows-32.jar twitch-external-platform-4.5
+ -natives-windows-32.jar platform-3.4.0.jar jline-2.13.jar log4j-core-
+ 2.0-beta9.jar scala-library-2.11.1.jar scala-actors-2.11.0.jar scala-
+ continuations-plugin_2.11.1-1.0.2.jar launchwrapper-1.12.jar compileD
+ ummy.jar jinput-platform-2.0.5-natives-windows.jar realms-1.7.59.jar 
+ jinput-2.0.5.jar lzma-0.0.1.jar soundsystem-20120107.jar lwjgl-platfo
+ rm-2.9.4-nightly-20150209-natives-osx.jar forgeBin-1.8.9-11.15.1.2318
+ -1.8.9.jar jarjar-1.1.jar codecjorbis-20101023.jar asm-5.0.3.jar libr
+ aryjavasound-20101123.jar icu4j-core-mojang-51.2.jar twitch-platform-
+ 6.5-natives-windows-64.jar akka-actor_2.11-2.3.3.jar jansi-1.11.jar c
+ ommons-io-2.4.jar scala-compiler-2.11.1.jar authlib-1.5.21.jar scala-
+ reflect-2.11.1.jar httpcore-4.3.2.jar jinput-platform-2.0.5-natives-o
+ sx.jar jutils-1.0.0.jar vecmath-1.5.2.jar lwjgl_util-2.9.4-nightly-20
+ 150209.jar twitch-6.5.jar scala-continuations-library_2.11-1.0.2.jar 
+ lwjgl-platform-2.9.4-nightly-20150209-natives-linux.jar log4j-api-2.0
+ -beta9.jar jna-3.4.0.jar asm-debug-all-5.0.3.jar jsr305-2.0.1.jar slf
+ 4j-api-1.7.7.jar commons-lang3-3.3.2.jar guava-17.0.jar scala-actors-
+ migration_2.11-1.1.0.jar librarylwjglopenal-20100824.jar lwjgl-platfo
+ rm-2.9.4-nightly-20150209-natives-windows.jar lwjgl-2.9.4-nightly-201
+ 50209.jar netty-1.6.jar config-1.2.1.jar asm-tree-5.0.3.jar commons-c
+ ompress-1.8.1.jar mixin-0.6.4-SNAPSHOT.jar gson-2.2.4.jar scala-parse
+ r-combinators_2.11-1.0.1.jar oshi-core-1.1.jar httpclient-4.3.3.jar t
+ witch-external-platform-4.5-natives-windows-64.jar jinput-platform-2.
+ 0.5-natives-linux.jar scala-xml_2.11-1.0.2.jar codecwav-20101023.jar 
+ asm-commons-5.0.3.jar commons-codec-1.9.jar scala-swing_2.11-1.0.1.ja
+ r trove4j-3.0.3.jar netty-all-4.0.23.Final.jar commons-logging-1.1.3.
+ jar providedDummy.jar
+Main-Class: com.sun.org.apache.xalan.internal.xsltc.cmdline.Compile
+

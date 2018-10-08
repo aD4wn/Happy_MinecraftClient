@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "net.lzsb.SexLingzhou.injection.mixins",
+  "refmap": "mixins.SexLingzhou.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinEntityPlayerSP",
+    "MixinGuiIngame",
+    "MixinGuiScreen",
+    "MixinGuiSpectator",
+    "MixinMinecraft",
+    "MixinNetworkManager"
+  ]
+}
