@@ -1,4 +1,5 @@
 # sexLingzhou
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/97bad5396db743cfbeb943c72d4c1b07)](https://app.codacy.com/app/aD4wn/sexLingzhou?utm_source=github.com&utm_medium=referral&utm_content=aD4wn/sexLingzhou&utm_campaign=Badge_Grade_Dashboard)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)   [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/) 
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![JitPack](https://img.shields.io/jitpack/v/jitpack/maven-simple.svg)](https://github.com/aD4wn/sexLingzhou)
