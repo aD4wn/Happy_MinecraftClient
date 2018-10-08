@@ -1,4 +1,6 @@
 # sexLingzhou
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)   [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/) 
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 Minecraft-HACK-Client-SEXLINGZHOU\
 Inspired by Liquid And Zues leak\
 Thanks Youtube @hackgungo\
