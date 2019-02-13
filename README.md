@@ -10,7 +10,6 @@
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)\
 This is an abandoned project and is no longer supported, although many people like him very much lol.
 ===
-\This project is an abandoned project, although many people like him lol.\
 We have a piece of good news and a piece of bad news\
 The good news is that we fixed a lot of bugs and solved the "Git" problem\
 Bad news: This project will be abandoned because it has many vulnerabilities and I don't have time to deal with it\
