@@ -8,7 +8,6 @@
 [![Build Status](https://semaphoreapp.com/api/v1/projects/d4cca506-99be-44d2-b19e-176f36ec8cf1/128505/badge.svg)](https://semaphoreapp.com/boennemann/badges)
 [![wercker status](https://app.wercker.com/status/9e0bc54c43f48d220aec684fffb2b110/s/master "wercker status")](https://app.wercker.com/project/bykey/9e0bc54c43f48d220aec684fffb2b110)
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)\
-Happy_Minecraftclient\
 This project is an abandoned project and is no longer supported, although many people like him very much lol.
 ===
 \This project is an abandoned project, although many people like him lol.\
