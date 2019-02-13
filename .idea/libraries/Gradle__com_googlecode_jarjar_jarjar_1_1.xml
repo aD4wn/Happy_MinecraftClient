@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.googlecode.jarjar:jarjar:1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.jarjar/jarjar/1.1/88085e95e0c9cf49e29116bd467a5dccd07d40a0/jarjar-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.jarjar/jarjar/1.1/2eb068798849655284fc08f7c3c22f6d1aded2b0/jarjar-1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.jarjar/jarjar/1.1/a50f94f684b7d2a539f4a16b7c95b5bde8b469e9/jarjar-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
