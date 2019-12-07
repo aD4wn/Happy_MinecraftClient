@@ -14,7 +14,7 @@ We have a piece of good news and a piece of bad news\
 The good news is that we fixed a lot of bugs and solved the "Git" problem\
 Bad news: This project will be abandoned because it has many vulnerabilities and I don't have time to deal with it\
 We implemented the basic framework, some of the code came from Liquid And Zues, paying tribute to them\
-Thanks @hackgungo and all the people who advise me\
+Thanks @hackgo and all the people who advise me\
 You can continue to develop on the basis of the open source agreement, and currently only implement KillAura and other functions\
 IJ IDE is recommended\
 Enjoy!:$
